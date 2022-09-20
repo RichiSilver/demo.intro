@@ -2,4 +2,4 @@
 
 hi am richi silver 
 i am learning backend development 
-my favorite programming languages are cpp,python and javascript
+my favorite programming languages are cpp,python and javascript.
